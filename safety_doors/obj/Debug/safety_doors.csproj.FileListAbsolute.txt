@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\safety_doors\safety_doors\bin\Debug\safety_doors.exe.config
+C:\Users\Acer\source\repos\safety_doors\safety_doors\bin\Debug\safety_doors.exe
+C:\Users\Acer\source\repos\safety_doors\safety_doors\bin\Debug\safety_doors.pdb
+C:\Users\Acer\source\repos\safety_doors\safety_doors\obj\Debug\safety_doors.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\safety_doors\safety_doors\obj\Debug\safety_doors.Form1.resources
+C:\Users\Acer\source\repos\safety_doors\safety_doors\obj\Debug\safety_doors.Properties.Resources.resources
+C:\Users\Acer\source\repos\safety_doors\safety_doors\obj\Debug\safety_doors.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\safety_doors\safety_doors\obj\Debug\safety_doors.exe
+C:\Users\Acer\source\repos\safety_doors\safety_doors\obj\Debug\safety_doors.pdb
